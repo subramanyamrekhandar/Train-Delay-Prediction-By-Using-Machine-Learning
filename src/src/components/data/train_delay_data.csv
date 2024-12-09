@@ -1,0 +1,31 @@
+year,month,date,selectAirline,fromStation,toStation,delayTime
+2024,12,09,Southern Railway,Chennai Central,Charminar Express,2.0
+2024,12,10,Northern Railway,Delhi Junction,Mumbai Express,1.5
+2024,11,15,Western Railway,Ahmedabad,Surat Express,0.5
+2023,12,01,Eastern Railway,Howrah Junction,Shatabdi Express,3.0
+2023,11,18,Southern Railway,Trivandrum,Kerala Express,2.5
+2022,10,22,Northern Railway,Lucknow,Rajdhani Express,1.0
+2022,10,20,Western Railway,Vadodara,Mewar Express,1.2
+2021,12,25,Eastern Railway,Kolkata,Darjeeling Express,0.8
+2021,11,19,Southern Railway,Madurai,Pandian Express,1.7
+2020,12,31,Northern Railway,Amritsar,Golden Temple Mail,0.9
+2024,01,05,Southern Railway,Chennai Egmore,Cholan Express,2.4
+2024,02,14,Eastern Railway,Bhubaneswar,Konark Express,1.3
+2023,03,20,Western Railway,Mumbai CST,Deccan Queen,0.6
+2023,06,10,Southern Railway,Erode,Nilgiri Express,2.2
+2023,09,17,Northern Railway,Jaipur,Ajmer Shatabdi,1.1
+2023,07,28,Eastern Railway,Patna,Magadh Express,0.7
+2022,05,12,Southern Railway,Chennai Central,Kaveri Express,1.8
+2022,08,03,Northern Railway,Chandigarh,Himalayan Queen,0.4
+2021,10,11,Western Railway,Surat,Bandra Terminus,1.5
+2021,02,14,Eastern Railway,Puri,Utkal Express,2.9
+2020,11,21,Southern Railway,Coimbatore,Nizamuddin Express,2.3
+2020,12,07,Northern Railway,Delhi,Goa Express,1.6
+2023,04,29,Southern Railway,Tirupati,Seshadri Express,2.5
+2022,06,08,Western Railway,Udaipur,Chetak Express,0.6
+2021,08,18,Eastern Railway,Guwahati,Kamakhya Express,2.8
+2021,03,06,Northern Railway,Bhopal,Shan-e-Bhopal,1.2
+2024,10,11,Southern Railway,Salem,Yercaud Express,2.6
+2024,09,13,Northern Railway,Amritsar,Punjab Mail,1.4
+2022,07,26,Eastern Railway,Varanasi,Kashi Vishwanath,0.3
+2023,01,15,Western Railway,Vadodara,Shatabdi Express,1.9
